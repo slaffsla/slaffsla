@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slaffsla
-- 👀 I’m interested in getting a job as a junior developer
+- 👀 I’m interested in getting a job as a developer
 - 🌱 I’m currently learning frontend developent
-- 💞️ I’m looking to collaborate on challenging projects involving JS and React
+- 💞️ I’m looking to collaborate on projects involving JS and React
 - 📫 How to reach me ... slasla@gmail.com
 
 <!---
